@@ -1,0 +1,138 @@
+.header{
+    background-image: url("../assets/images/background1.png");
+    background-repeat: no-repeat;
+    min-height: 680px;
+}
+.login_btn{
+    background: linear-gradient(271.53deg, #0066FF 0%, #FF2E4C 99.35%);
+    border-radius: 10px;
+    width: 212px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+    text-align: center;
+}
+.login_btn div{
+    vertical-align: center;
+}
+.header .links a{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+}
+.header-right-image{
+    position: absolute;
+    right: 0;
+}
+.header .title{
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 95px;
+    background: linear-gradient(266.67deg, #EB3259 35.13%, #698FEC 95.88%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 746px;
+    height: 285px;
+    margin-top: 100px;
+}
+.traiders{
+    width: 885px;
+    height: 273px;
+    background: #512A54;
+    border-radius: 4px;
+    position: relative;
+    top: 100px;
+}
+.traiders .links div{
+    color: white;
+    margin: 10px;
+    font-weight: 600;
+}
+.traiders .links .active{
+    border-bottom: 1px solid #C72A2A;
+}
+.traider-border{
+    border-right: 1px solid #0066FF;
+}
+.traider-block .title{
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 95px;
+    background: linear-gradient(266.67deg, #EB3259 35.13%, #698FEC 95.88%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.traider-block .description{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+.traider-block{
+    background: linear-gradient(91.57deg, #350838 75.71%, #341895 145.44%);
+}
+.traider-table{
+    background: linear-gradient(180deg, #3B4568 0%, rgba(59, 69, 104, 0) 100%);
+    border-radius: 8px;
+}
+.traider-table{
+    width: 1267px;
+    height: 484px;
+    margin: 0 auto;
+    padding: 60px;
+    background: linear-gradient(180deg, #3B4568 0%, rgba(59, 69, 104, 0) 100%);
+
+
+}
+.subscribe-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 45px;
+    gap: 10px;
+    width: 170px;
+    height: 39px;
+    background: linear-gradient(271.53deg, #0066FF 0%, #FF2E4C 99.35%);
+    border-radius: 10px;
+}
+.chat-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 45px;
+    gap: 10px;
+    width: 128px;
+    height: 39px;
+    background: #0066FF;
+    border-radius: 10px;
+}
+table{
+    color: white;
+}
+td{
+    margin-bottom: 20px;
+}
+footer{
+    height: 211px;
+    background: linear-gradient(252.29deg, #331BA2 0%, #42032D 99.31%);
+}
+footer > div{
+    height: 211px;
+}
+.footer-link div{
+    margin: 20px;
+}
+.traider-block .title{
+    padding-top: 200px;
+}
+.traider-block .description{
+    margin-bottom: 80px;
+}
+.top-traiders{
+    font-weight: 400;
+}
